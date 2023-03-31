@@ -7,10 +7,10 @@
 # BootCampDataScience
 BootCamp com Alura 
 
-´´´ py
+``` py
 import pandas as pd
 url= 'link dos dados'
 dados=pd.read_csv(url)
-´´´´
+```
 
 By DevRel <💜 /> [Nadi Duno](https://www.rocketseat.com.br/) © 2023
